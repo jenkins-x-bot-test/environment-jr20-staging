@@ -1,1 +1,6 @@
-defaultNamespace: ""
+apps:
+- name: dev/golang-05
+  version: 0.0.1
+repositories:
+- name: dev
+  url: http://chartmuseum-jx.34.77.99.72.nip.io
